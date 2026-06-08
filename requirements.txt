@@ -1,4 +1,5 @@
 streamlit
-email_validator
+email-validator
 dnspython
 pandas
+openpyxl
